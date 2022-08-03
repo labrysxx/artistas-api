@@ -1,0 +1,54 @@
+{
+  "musicistas": [
+    {
+      "id": 0,
+      "name": "Phoebe Bridges",
+      "about": "Cantora, compositora, guitarrista e produtora",
+      "albums": [
+        {
+          "title": "If We Make It Through December",
+          "year": 2020
+        },
+        {
+          "title": "Copycat Killer",
+          "year": 2020
+        },
+        {
+          "title": "inner demos",
+          "year": 2020
+        },
+        {
+          "title": "Punisher",
+          "year": 2020
+        },
+        {
+          "title": "Stranger in the Alps",
+          "year": 2017
+        },
+        {
+          "title": "Daytrotter Session",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Angèle",
+      "about": "Cantora, compositora, atriz, dubladora e produtora musical",
+      "albums": [
+        {
+          "title": "Nonante-Cinq",
+          "year": 2021
+        },
+        {
+          "title": "Brol",
+          "year": 2018
+        },
+        {
+          "title": "Brol La Suite",
+          "year": 2019
+        }
+      ]
+    }
+  ]
+}
